@@ -1,5 +1,5 @@
 const page = () => {
-  return <div>About Page</div>;
+  return <div>graphic design sub route</div>;
 };
 
 export default page;

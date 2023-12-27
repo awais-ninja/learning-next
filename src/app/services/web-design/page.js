@@ -1,7 +1,7 @@
 import React from "react";
 
 const page = () => {
-  return <div>This is the services page</div>;
+  return <div>Web design sub route</div>;
 };
 
 export default page;
